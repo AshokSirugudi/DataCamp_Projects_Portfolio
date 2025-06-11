@@ -30,5 +30,18 @@ Here's an overview of the projects included in this portfolio:
     * **Skills Demonstrated:** Data Cleaning, Data Manipulation, Pandas, Exploratory Data Analysis (EDA).
     * **Last Updated:** (e.g., June 2025)
 
----
+### Analyzing Students' Mental Health
+
+* **Description:** This project explores the mental health of international university students using survey data. It investigates if factors like country of study, social connectedness, and acculturative stress predict depression, and examines the impact of length of stay.
+* **Skills Demonstrated:** Data Analysis, SQL (PostgreSQL), Data Interpretation.
+* **Link to project folder:** [Analyzing-Students-Mental-Health](Analyzing-Students-Mental-Health/)
+
+
+### Investigating Netflix Movies
+
+* **Description:** Dive into Netflix movie data to explore films released in the 1990s. This project performs exploratory data analysis to understand movie trends and characteristics from that nostalgic decade, using the `netflix_data.csv` dataset.
+* **Skills Demonstrated:** Exploratory Data Analysis (EDA), Data Manipulation, Data Visualization.
+* **Link to project folder:** [Investigating_Netflix_Movies](Investigating_Netflix_Movies/)
+
+-----
 
